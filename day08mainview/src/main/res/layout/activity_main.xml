@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+   <!-- <com.example.day08mainview.MyTextView
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:text="Hello World!"
+        android:id="@+id/tv"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+<com.example.day08mainview.MyLIne
+    android:layout_width="wrap_content"
+    android:layout_height="50dp"
+    android:id="@+id/line"
+   android:layout_below="@id/tv"/>
+    <com.example.day08mainview.MyCirlce
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_below="@id/line"
+        android:id="@+id/circle"/>
+    <com.example.day08mainview.MyImage
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:id="@+id/image"
+        android:layout_below="@id/circle"/>
+<com.example.day08mainview.MymoreSide
+    android:layout_width="match_parent"
+    android:layout_height="120dp"
+    android:id="@+id/moreside"
+    android:layout_below="@id/image"/>
+    <com.example.day08mainview.MyRecView
+        android:layout_width="match_parent"
+        android:layout_height="150dp"
+        android:id="@+id/rcv"
+        android:layout_below="@id/moreside"/>-->
+   <!-- <com.example.day08mainview.DrawView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        />-->
+    <com.example.day08mainview.BarView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/bar"/>
+</RelativeLayout>

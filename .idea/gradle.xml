@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="testRunner" value="PLATFORM" />
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/day02moban" />
+            <option value="$PROJECT_DIR$/day06mainview" />
+            <option value="$PROJECT_DIR$/day06touchevent" />
+            <option value="$PROJECT_DIR$/day08mainview" />
+            <option value="$PROJECT_DIR$/day09umeng" />
+            <option value="$PROJECT_DIR$/day09zuoye" />
+            <option value="$PROJECT_DIR$/facterday02" />
+            <option value="$PROJECT_DIR$/mvpchouqu" />
+            <option value="$PROJECT_DIR$/mvpchouqu2" />
+            <option value="$PROJECT_DIR$/mvpchouqu3" />
+            <option value="$PROJECT_DIR$/mvpchouqu4" />
+            <option value="$PROJECT_DIR$/mvpchouqu5" />
+            <option value="$PROJECT_DIR$/mvpchouqu6" />
+            <option value="$PROJECT_DIR$/sensor" />
+            <option value="$PROJECT_DIR$/sensor2" />
+            <option value="$PROJECT_DIR$/zhouce" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
